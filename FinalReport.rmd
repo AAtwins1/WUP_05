@@ -82,3 +82,5 @@ The inferential results shows two low p-values which means that we reject the nu
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+  
+In the beginning, we had to narrow down the data frame to females only. Then we pulled out the graphical results which showed a plot of how many females had aids and how many did not. The other plot showed the effectiveness of the drug. Which proved to be not effective. The numerical results was that about 60% of the females who took the drug had aids and about 40% of the females who took the placebo had aids. These results proved that the drug was not effective in decreasing the contraction of aids.  
