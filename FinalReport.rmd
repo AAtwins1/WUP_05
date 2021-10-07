@@ -52,8 +52,8 @@ basicC + geom_bar(stat="identity",position="dodge")
 basicCC <- ggplot(dd2,aes(x=infected,y=prcnt*100,fill=treatment)) 
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
-
-
+  
+In the graph above we are shown that about 60% of the females with aids took the drug and the other 40% of the women with aids took the placebo. This means that the drug did not work because there is a higher percentage of females with aids that took the drug than the females that took the placebo.   
 
 ### Numerical Descriptive Results
 
